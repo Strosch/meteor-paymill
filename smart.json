@@ -1,0 +1,8 @@
+{
+	"name": "paymill",
+	"description": "Paymill Node package (by Thomas Schaaf) and Paymill's Bridge.js repackaged for meteor.",
+	"homepage": "https://github.com/Questful/meteor-paymill.git",
+	"author": "Patrick Schubert",
+	"version": "0.0.1",
+	"git": "https://github.com/Questful/meteor-paymill.git"
+}
